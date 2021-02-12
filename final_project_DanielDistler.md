@@ -11,11 +11,13 @@ DPSCD is the largest district in the state of Michigan with over [50,000 student
 This story is particularly important, for me, because after graduating college, I spent two years teaching 6th Grade English at a DPSCD school.  While there, I saw the positive work that has taken place in the District under new superintendent [Dr. Vitti](https://www.detroitk12.org/superintendent). Dr. Vitti recently annoucned a [new strategic plan](https://www.detroitk12.org/cms/lib/MI50000060/Centricity/Domain/4036/Blueprint_2020_Strategies_Only.pdf) for the district's future. A major component of the plan involves identifying the model schools that the District can replicate across the city. This project will attempt to use the publicly available data to identify these such schools and the attributes they have in common. 
 
 ## Project Structure and Sketches
-The following section provides an overview of the various sections and visualizations that I anticipate including in my final project, to tell the story defined above. These sections and visualizations, are crudely hand drawn (to the best of my ability), and reflect my expectations of what the data will look like, rather than the data itself. 
+The following provides an overview of the various sections and visualizations that I anticipate including in my final project, to tell the story defined above. These sections and visualizations, are crudely hand drawn (to the best of my ability), and reflect my expectations of what the data will look like, rather than the data itself. 
 
 ### Identifying High-Performing Schools 
 
-The first section will focus on identifying these model schools. I will use data on a number of 
+The first section will focus on identifying these model schools. I will use data on a number of positive indicators to identify which schools are the highest performing. Some visualizations, I plan to include to help identify these schools are: 
+
+
 
 
 ## The Data 
