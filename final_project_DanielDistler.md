@@ -38,10 +38,10 @@ This crudely, drawn tree map would be filled with the data actually given in the
 #### Sample Survey of Model Schools 
 Lastly I would use the Flourish Sample Survey visualization to get even more detail about each high achieving school. The school could be broken down and grouped by categorical variables and sized by continous variables possibilities are listed in the sketch. Each dot represents one high achieving school. 
 
-![Survey Plot](survey%plot.jpg)
+![Survey Plot](survey%20plot.jpg)
 
 #### Conclusions
 I would finally summarize the takeaways from both which schools were high-achieving and the common demographic attributes of these schools. This could serve to further DPSCD's ability to identify and cultivate top performing schools. 
 
 ## The Data 
-The data used from this project is aggregated from the [DPSCD open data files website](https://www.detroitk12.org/Page/9634). Using this hub, I downloaded and aggregated DPSCD data on [Student Attendance](https://danieldistler-1.github.io/Distler-portfolio/DPSCD%20Attendance%20Data%202015-2019.csv), [Assessment Growth Data](/DPSCD%Growth Data.csv) and [College Enrollment](https://danieldistler-1.github.io/Distler-portfolio/DPSCD%20Attendance%20Data%202015-2019.csv). These hyperlinks go directly to the aggregated csv files that I will use for this assignment.   
+The data used from this project is aggregated from the [DPSCD open data files website](https://www.detroitk12.org/Page/9634). Using this hub, I downloaded and aggregated DPSCD data on [Student Attendance](https://danieldistler-1.github.io/Distler-portfolio/DPSCD%20Attendance%20Data%202015-2019.csv), [Assessment Growth Data](/DPSCD%20Growth Data.csv) and [College Enrollment](https://danieldistler-1.github.io/Distler-portfolio/DPSCD%20Attendance%20Data%202015-2019.csv). These hyperlinks go directly to the aggregated csv files that I will use for this assignment.   
