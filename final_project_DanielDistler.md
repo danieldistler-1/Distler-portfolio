@@ -17,6 +17,8 @@ The following provides an overview of the various sections and visualizations th
 
 The first section will focus on identifying these model schools. I will use data on a number of positive indicators to identify which schools are the highest performing. Some visualizations, I plan to include to help identify these schools are: 
 
+![Scatter Sketch](Scatter.jpg)
+
 
 
 
