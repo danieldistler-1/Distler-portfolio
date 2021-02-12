@@ -10,7 +10,7 @@ My name is Daniel Distler and I am a first year [MSPPM-Data Analytics Student](h
 In this course, I hope to practice my skills as a visual communicator. I want to learn to communicate findings in simple and effective graphics and practice my ability to generate informative visualizations. Additionally, I hope this course will provide me with some initial exposure to powerful visualization tools that I can continue to use both as a student and a professional. Following completion of my graduate degree, I hope to work as a Data Scientist and leverage the technical and communication skills I have learned here at Heinz to solve fascinating problems. As a professional I know that effectively communicating my findings will be as important, if not more important, than any data analysis. I hope this course will sharpen my ability to communicate such finidngs through creative and informative visualizations and by using narrative so that my work tells a cohesive story. 
 
 # Portfolio 
-Here is where my future visualizations will go 
+Check out each of my projects by clocking on the links below.
 
 # [Visualizing Government Debt](/dataviz2.md)
 
