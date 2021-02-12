@@ -12,6 +12,6 @@ In this course, I hope to practice my skills as a visual communicator. I want to
 # Portfolio 
 Here is where my future visualizations will go 
 
-# Visualizing Government Debt 
+# [Visualizing Government Debt](/dataviz2.md)
 
-[Click here to visit this page](/dataviz2.md)
+
