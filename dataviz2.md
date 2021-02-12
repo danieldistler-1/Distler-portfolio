@@ -1,13 +1,13 @@
-[Return to Portfolio Home] (https://danieldistler-1.github.io/Distler-portfolio/)
+[Return to Portfolio Home](https://danieldistler-1.github.io/Distler-portfolio/)
 
 
 # Visualizing Government Debt
 
-The visualizations below, utilize data from the Organisation for Economic Co-operation and Development (OECD) on the Debt-to-GDP ratio for member countries.  [OECD notes] (https://data.oecd.org/gga/general-government-debt.htm) that Debt-to-GDP ratio is a "a key indicator for the sustainability of government finance". The quantity can be simply calculated as a nation's debt / the nation's GDP.  
+The visualizations below, utilize data from the Organisation for Economic Co-operation and Development (OECD) on the Debt-to-GDP ratio for member countries. [OECD notes](https://data.oecd.org/gga/general-government-debt.htm) that Debt-to-GDP ratio is a "a key indicator for the sustainability of government finance". The quantity can be simply calculated as a nation's debt / the nation's GDP.  
 
 ## 2009 Government Debt in the European Union 
 
-The graph below shows the Government Debt-to-GDP ratio for EU member countries in 2009. Taken from the [OECD site] (https://data.oecd.org/gga/general-government-debt.htm), the graph effectively communicates the relative Debt-to-GDP ratios for each member nation. The graph is free of any extraneous information, and deisgned to limit the cognitive load of the reader. Each country is well labled and arranged in ascending order by Debt-to-GDP ratio. The reader can quickly and easily focus on a country's by mousing over, on clicking on the nation.  
+The graph below shows the Government Debt-to-GDP ratio for EU member countries in 2009. Taken from the [OECD site](https://data.oecd.org/gga/general-government-debt.htm), the graph effectively communicates the relative Debt-to-GDP ratios for each member nation. The graph is free of any extraneous information, and deisgned to limit the cognitive load of the reader. Each country is well labled and arranged in ascending order by Debt-to-GDP ratio. The reader can quickly and easily focus on a country's by mousing over, on clicking on the nation.  
 
 <iframe src="https://data.oecd.org/chart/6gGc" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/6gGc" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2009</a></iframe>
 
@@ -28,7 +28,7 @@ For my original visualization, I wanted to create something that both captured t
 
 ### Model Techniques Used
 - **Grey as a friend:** when I first put my data into this visualization I noticed that it was immeadiately overwhelming. To try and make this more manageable I used gray to represent all the countries that were not my focus. 
-- **Constrainting Colors:** I chose the colors for USA and Japan using [ColorBrewer] (https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3) to find optimal qualitative color codes. This allowed for quick and accesssible recognition. 
+- **Constrainting Colors:** I chose the colors for USA and Japan using [ColorBrewer](https://colorbrewer2.org/#type=qualitative&scheme=Dark2&n=3) to find optimal qualitative color codes. This allowed for quick and accesssible recognition. 
 - **Bars for comparision and simplicity:** I chose to use horizontal ordered bars for comparison. Since the data is dynamic and there many countries, this format allows for quick and easy comparision. 
 - **Left aligned:** I tried to follow the best practice of aligning all elements of my graph by aligning the title, on the left, with the labels for my graphic. 
 - **Temporal Change:** While the changing time period of this graphic adds information, and can reasonably be viewed as complicating the messsage, I decided this trade off was worth it in exchange for the ability to see countries change over time, and the engagement that would come from the graph's interactive features. 
@@ -40,4 +40,4 @@ The final result, produced as described above, tries tells a particular story. T
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5278262"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-[Return to Portfolio Home] (https://danieldistler-1.github.io/Distler-portfolio/)
+[Return to Portfolio Home](https://danieldistler-1.github.io/Distler-portfolio/)
