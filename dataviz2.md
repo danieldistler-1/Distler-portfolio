@@ -3,7 +3,7 @@
 
 # Visualizing Government Debt
 
-The visualizations below, utilize data from the Organisation for Economic Co-operation and Development (OECD) on the Debt-to-GDP ratio for member countries. [OECD notes](https://data.oecd.org/gga/general-government-debt.htm) that Debt-to-GDP ratio is a "a key indicator for the sustainability of government finance". The quantity can be simply calculated as a nation's debt / the nation's GDP.  
+The visualizations below utilize data from the Organisation for Economic Co-operation and Development (OECD) on the Debt-to-GDP ratio for member countries. [OECD notes](https://data.oecd.org/gga/general-government-debt.htm) that Debt-to-GDP ratio is a "a key indicator for the sustainability of government finance". The quantity can be simply calculated as a nation's debt / the nation's GDP.  
 
 ## 2009 Government Debt in the European Union 
 
