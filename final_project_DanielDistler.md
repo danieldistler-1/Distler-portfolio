@@ -17,10 +17,28 @@ The following provides an overview of the various sections and visualizations th
 
 The first section will focus on identifying these model schools. I will use data on a number of positive indicators to identify which schools are the highest performing. Some visualizations, I plan to include to help identify these schools are: 
 
+#### Scatterplot  
+The scatter plot sketched below will show the most recent data for DPSCD schools, with attendance rate on the X axis and college enrollment percentage on the Y axis. Up and to the right will signify better. The model schools, ones that are the best on these categories will stand out in red, the rest of schools will be shown in gray. 
+
 ![Scatter Sketch](Scatter.jpg)
 
+#### Bar Chart Race
+The bar chart race will show the Top N schools on a certain metric. The one imagined here is M-Step (Michigan's Standardized Test) % of students with above average growth in 2015-2019. High Performing Model Schools will be indicated with colors this can dynamically update over time, through Flourish's bar chart race graphic. 
 
+![Bar Chart Race](BarRace.jpg)
 
+### Attributes of High Achieving Schools 
+After establishing which schools meet the criteria of model schools, through their performance on certain metrics, the next step will be to look deeper at demographics within each school. 
+
+#### Treemap 
+This crudely, drawn tree map would be filled with the data actually given in the project. It would look at each grade level for the school and within each grade level broken down by subject. The size would be determined by the % of students with Above Average scoring on standardized tests for each subject. 
+
+![Tree Map](Treemap.jpg)
+
+#### Sample Survey of Model Schools 
+Lastly I would use the Flourish Sample Survey visualization to get even more detail about each high achieving school. The school could be broken down and grouped by categorical variables and sized by continous variables possibilities are listed in the sketch. Each dot represents one high achieving school. 
+
+![Survey Plot](survey plot.jpg)
 
 ## The Data 
 The data used from this project is aggregated from the [DPSCD open data files website](https://www.detroitk12.org/Page/9634). Using this hub, I downloaded and aggregated DPSCD data on [Student Attendance](https://danieldistler-1.github.io/Distler-portfolio/DPSCD%20Attendance%20Data%202015-2019.csv), and [College Enrollment](https://danieldistler-1.github.io/Distler-portfolio/DPSCD%20Attendance%20Data%202015-2019.csv). These hyperlinks go directly to the aggregated csv files that I will use for this assignment.   
