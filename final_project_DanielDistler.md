@@ -1,6 +1,6 @@
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
 
-# Final Project Outline 
+# Final Project Proposal
 
 ## Summary 
 For my final project, I want to use data analysis and visualization to understand the performance of schools in Detroit Public Schools Community District (DPSCD). I will focus on using publicly available District and State data to identify common attributes of successful schools in the district and help identify high-performing model schools in the district. 
