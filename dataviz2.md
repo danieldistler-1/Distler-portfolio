@@ -1,3 +1,5 @@
+[Return to Portfolio Home] (https://danieldistler-1.github.io/Distler-portfolio/)
+
 
 # Visualizing Government Debt
 
@@ -37,3 +39,5 @@ For my original visualization, I wanted to create something that both captured t
 The final result, produced as described above, tries tells a particular story. The title and subtitle, put an immediate focus on the USA and Japan. From the graphic we can quikcly and easily see the Debt-to-GDP ratio for these nations. We notice, that over time, not only does Debt-to-GDP seem to rise on average, but particularly for these major economies. They ultimately, end up in the top 5 with oft-economically embattled nations such as Portugal, Greece and Italy.  
 
 <div class="flourish-embed flourish-bar-chart-race" data-src="visualisation/5278262"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+[Return to Portfolio Home] (https://danieldistler-1.github.io/Distler-portfolio/)
