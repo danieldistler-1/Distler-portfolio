@@ -61,4 +61,4 @@ References
 2.  "Colors- The CMU Brand." Carnegie Mellon University, www.cmu.edu/brand/brand-guidelines/visual-identity/colors.html. 
 
 
-[Return to home](https://drive.google.com/file/d/1AdAf7-rt2wZCVy_a72sWTBupnZGxL3bk/view?usp=sharing)
+[Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
