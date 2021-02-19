@@ -49,6 +49,8 @@ As a result of this wireframing process, I ultimately chose to use [Flourish](ht
 
 **Use color more intentionally:** the colors in this graph are taken directly from CMU's branding guide<sup>2</sup>. These more muted colors are less distracting to the reader and fit cohesively with the rest of the University's dashboard site. 
 
+**Allow for filtered selection:** in the final product I chose to include [Flourish's](https://flourish.studio/) multi-select filter tool. This allows the user to customize the visual they wish the see. The user can use the box above the graph to select the data from any combination of the four groups shown in the graph.  
+
 # The Final Product 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/5321565"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
