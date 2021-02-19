@@ -13,6 +13,15 @@ As you can see above, the graph axis is cut off, while much of the screen is dom
 
 ![COVID Graph Zoomed Out](covid%20zoomed%20out.JPG)
 
+# Critique Method 
+
+
+# Wireframing 
+
+
+# User Feedback 
+
+
 References
 1 “CMU Cases Dashboard - COVID-19 Updates - Carnegie Mellon University.” CMU Cases Dashboard , Carnegie Mellon University, www.cmu.edu/coronavirus/health-and-wellness/dashboard.html.  
 
