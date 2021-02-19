@@ -22,23 +22,44 @@ By completing the critique method, I noticed several aspects of the chart had ro
 
 **Trends over time:** I felt that by using a stacked bar graph to represent the data, the original chart, didn't allow the reader to assess trends within groups over time. I wanted my redesign to allow for this sort of trend detection. 
 
-# Wireframing 
-
-
-![Bar Chart Sketch](Line%20Chart%20Wirefarm.jpg)
-
-Second Iteration:
+# Wireframing - First Iteration 
+To make these changes, I sent out to draw a new version of the graph. I decided to group students and faculty by color, students were blue and faculty green, to reduce the brightness of the colors presented to the reader. Then, in my first iteration, I decided to make seperate bar charts for each category and lay them out next to each other. This was to allow the user to make comparisons over time. 
 
 ![Line Chart Sketch](unstacked%20bar%20wireframe.jpg)
 
 # User Feedback 
+After presenting this wireframe to my users, I recieved some extremely helpful feedback. They felt that having the bars seperately made it more difficult to see comparisions and trends over time. After some brainstorming, we came up with a new form of a line graph. This would allow the user to quickly and easily see comparisons between each group and more readily identify trends over time. They also felt that the colors were distracting and suggested moving to a grouping that had only 2 colors associated. With this advice in hand, I went back to the drawing board and redrew my sketch with the new line graph in mind.  
 
+
+# Wireframing - Second Iteration
+This iteration implemented the changes discussed above. I used only two colors, one for on and one for off campus, to highlight the differences in cases between these two groups. I also used a line chart to allow for comparisons over time.  Finally, I moved the labels to the end of the lines themselves. This eliminated the need for an overbearing legend that takes up unnecessary space. 
+
+![Bar Chart Sketch](Line%20Chart%20Wirefarm.jpg)
+
+# User Feedback 
+I once again presented my sketch to my users and this time recieved more positive feedback. They felt that the graph quickly told a clearer story by highlighting the discrepancy between on campus and off campus cases. They also felt that the graph quickly revealed the relatively large volatility in case numbers among students and allowed the user to see trends far more easily than my initial prototype. One point of confusion on this second iteration, was simply that with the new color scheme, it became difficult to differentiate between students and faculty. One user suggested using a different shape of the line to indicate this difference. I ultimately incorporated this suggestion by using a dashed line to represent the cases of faculty. This allows the user to quickly and easily differentiate between the faculty and student groups. 
+
+# Making the Final Product 
+As a result of this wireframing process, I ultimately chose to create the lin graph sketched above. I used [Flourish](https://flourish.studio/) to implement this solution and created a line chart that matched the specifications mentioned above. In making my final product I sought to:
+
+**Tell a clear story:** the redesign highlights the differences between students and faculty on and off campus. This difference emerges as a clear narrative that the original visualization did not identify. 
+
+**Allow for intuitive interpretation:** The dashed lines allow the users to quickly and easily determine which lines represent students and which represent faculty. Additionally, the labels eliminate the need for the large legend included with the original visualization. This allows the reader to quickly and easily interpet each line. 
+
+**Identify trends in the data**: The line chart design allows the user to see trends more clearly than in the original graph. 
+
+**Use color more intentionally:** the colors in this graph are taken directly from CMU's branding guide<sup>2</sup>. These more muted colors are less distracting to the reader and fit cohesively with the rest of the University's dashboard site. 
+
+# The Final Product 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/5321565"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
 
 References
 
 1.  “CMU Cases Dashboard - COVID-19 Updates - Carnegie Mellon University.” CMU Cases Dashboard , Carnegie Mellon University, www.cmu.edu/coronavirus/health-and-wellness/dashboard.html.  
+2.  "Colors- The CMU Brand." Carnegie Mellon University, www.cmu.edu/brand/brand-guidelines/visual-identity/colors.html. 
 
 
 [Return to home](https://drive.google.com/file/d/1AdAf7-rt2wZCVy_a72sWTBupnZGxL3bk/view?usp=sharing)
