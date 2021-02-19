@@ -14,16 +14,31 @@ As you can see above, the graph axis is cut off, while much of the screen is dom
 ![COVID Graph Zoomed Out](covid%20zoomed%20out.JPG)
 
 # Critique Method 
+By completing the critique method, I noticed several aspects of the chart had room for potential improvement. These elements included:
 
+**The Striking Legend:** the four big colored blocks in the graph were the first thing that caught my eye. I wanted to find a different way to label groups in my redesign.
+
+**Four Bright Colors:** I felt the four bright colors used in the graphic were distracting and obfuscated the graph's message. In my final project, I endeavored to be more intentional about color choice. This could help me limit the number of colors and use them to show more trends across groups. 
+
+**Trends over time:** I felt that by using a stacked bar graph to represent the data, the original chart, didn't allow the reader to assess trends within groups over time. I wanted my redesign to allow for this sort of trend detection. 
 
 # Wireframing 
 
 
+![Bar Chart Sketch](Line%20Chart%20Wirefarm.jpg)
+
+Second Iteration:
+
+![Line Chart Sketch](unstacked%20bar%20wireframe.jpg)
+
 # User Feedback 
 
 
+
+
 References
-1 “CMU Cases Dashboard - COVID-19 Updates - Carnegie Mellon University.” CMU Cases Dashboard , Carnegie Mellon University, www.cmu.edu/coronavirus/health-and-wellness/dashboard.html.  
+
+1.  “CMU Cases Dashboard - COVID-19 Updates - Carnegie Mellon University.” CMU Cases Dashboard , Carnegie Mellon University, www.cmu.edu/coronavirus/health-and-wellness/dashboard.html.  
 
 
 [Return to home](https://drive.google.com/file/d/1AdAf7-rt2wZCVy_a72sWTBupnZGxL3bk/view?usp=sharing)
