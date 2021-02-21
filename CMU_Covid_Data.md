@@ -59,7 +59,7 @@ As a result of this wireframing process, I ultimately chose to use [Flourish](ht
 
 References
 
-1.  “CMU Cases Dashboard - COVID-19 Updates - Carnegie Mellon University.” CMU Cases Dashboard , Carnegie Mellon University, [www.cmu.edu/coronavirus/health-and-wellness/dashboard.html](www.cmu.edu/coronavirus/health-and-wellness/dashboard.html).  
+1.  “CMU Cases Dashboard - COVID-19 Updates - Carnegie Mellon University.” CMU Cases Dashboard , Carnegie Mellon University, [www.cmu.edu/coronavirus/health-and-wellness/dashboard.html](https://www.cmu.edu/coronavirus/health-and-wellness/dashboard.html).  
 2.  "Colors- The CMU Brand." Carnegie Mellon University, [www.cmu.edu/brand/brand-guidelines/visual-identity/colors.html](www.cmu.edu/brand/brand-guidelines/visual-identity/colors.html). 
 
 
