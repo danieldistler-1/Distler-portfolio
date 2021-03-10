@@ -6,13 +6,13 @@
 ## Data Cleaning and Preparation. 
 To begin completing part II of this project, I knew I would have to spend some time working with the public data set I had collected for Part I. The dataset I chose to focus on included several years of attendance, primary school enrollment, college enrollment, and test score data for Detroit Public Schools Community District. Each file had thousands of observations that looked at each metric for each school, across a variety of subgroups. To parse through this data, I used python to organize, filter and manipulate the data in order to create smaller datasets that I could use to generate each visualization in my final project. 
 
-The link to my python script used to clean and process the data can be accessed [here] (https://drive.google.com/file/d/10QGvRCpJ8KTT3Vp0la1zAYu1mPpHneyt/view?usp=sharing). 
+The link to my python script used to clean and process the data can be accessed [here](https://drive.google.com/file/d/10QGvRCpJ8KTT3Vp0la1zAYu1mPpHneyt/view?usp=sharing). 
 
 ## Wireframes and Storyboards
 
 Since, uncovering trends would require sifting through a significant amount of data, I ultimately decided to make my draft visualizations using Flourish. I began the process of drafting digital version of the sketches I had included in part I in a digital form using the actual data I had generated from part 1. Over the course of generating these visualizations, there were several instances where I decided to pivot from the original visualization I had planned to use in my outline from Project Part I. In particular, I pivoted from the Bar Chart Race and Tree Maps visualizations I had originally proposed, to simpler comparative bar graphs that would not rely on cumulative metrics. 
 
-As I was completing this higher-fidelity draft visualizations on Flourish, I also began to craft the outline of my broader story. The order and organization of these storyboards were based heavily on the outline I generated in part I of the final project. To create my storyboard, I opted to generate a Shorthand presentation, that would serve as an outline of the project’s final version. I integrated my Flourish visualizations into my drafted Shorthand Presentation and used this as the outline to conduct my user research.  A preview version of this shorthand presentation, can be found [here] (https://preview.shorthand.com/8ermEGrhLWoAETCn). 
+As I was completing this higher-fidelity draft visualizations on Flourish, I also began to craft the outline of my broader story. The order and organization of these storyboards were based heavily on the outline I generated in part I of the final project. To create my storyboard, I opted to generate a Shorthand presentation, that would serve as an outline of the project’s final version. I integrated my Flourish visualizations into my drafted Shorthand Presentation and used this as the outline to conduct my user research.  A preview version of this shorthand presentation, can be found [here](https://preview.shorthand.com/8ermEGrhLWoAETCn). 
 
 Note this version of the shorthand outlines the general flow of my presentation. The text and images for each section are drafted versions that will serve as guides and placeholders for the final written description. I will flesh out and clean up these descriptions and text when creating my final version. In conducting my user research using this drafted version of the shorthand, I made sure to preface my interviews by explaining that the shorthand presentation was only a draft of the final project.  
 
@@ -56,7 +56,7 @@ As a teacher/community member what resources and information would you be intere
 
 Is the style of the presentation/graphics interesting/intriguing? Does it make you want to learn more? Did you find the presentation engaging?
 
-The complete link to all interview questions and answers can be accessed [here in this google sheets file] (https://docs.google.com/spreadsheets/d/1_jEjoa_fYjubNisPI5d3srqeElM71fXyx2stBVcv7Dw/edit?usp=sharing). 
+The complete link to all interview questions and answers can be accessed [here in this google sheets file](https://docs.google.com/spreadsheets/d/1_jEjoa_fYjubNisPI5d3srqeElM71fXyx2stBVcv7Dw/edit?usp=sharing). 
 
 ## Interview Findings
 
