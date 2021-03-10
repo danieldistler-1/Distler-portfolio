@@ -18,4 +18,4 @@ Check out each of my projects by clocking on the links below.
 
 # [CMU Covid Dashboard Redesign](/CMU_Covid_Data.md)
 
-# [Part II](/part_II_interview_script.md)
+# [Part II](/FinalprojectII.md)
