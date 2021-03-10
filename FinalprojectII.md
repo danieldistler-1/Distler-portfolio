@@ -159,7 +159,7 @@ In the original version, I used a color distinction to distinguish between Publi
 In my new version, I included only one color for model schools, clearer axis labels and a subtitle that more directly told the story of the data. 
 I will repeat this same process for all of my visualizations in order to ensure that they are accessible and clear to my reader. 
 
-![New Version](Change1b.jpg)
+![New Version](Change1b.JPG)
 
 **2. Adding baselines for context and comparison** 
 Another throughline from my user research, was a desire for more context in some of the metrics I presented. While I included baseline metrics, state and district averages, in some of my graphs, my users expressed a desire to see these points of comparison in more contexts. I believe that including a baseline will help strengthen my case and make my graphs easier to understand. 
@@ -168,16 +168,11 @@ Another throughline from my user research, was a desire for more context in some
 
 In the visualization I showed as part of my storyboard, I included bars for each model school, but no point of comparison for the district as a whole. 
 
-
-
+![Original Version](change2.JPG)
 
 In considering this action step, I decided to present the data a bit differently. I not only presented a district average, but also computed averages for only the model schools, since I realized this difference, model schools vs all schools, was more important than the individual averages of the schools themselves. This graph allows the reader to much more clearly see the point. This graph more clearly shows that even though model schools have a higher share of students who are economically disadvantaged than the average DPSCD school, they still have exceptional outcomes. 
 
-
-
-
-
-
+![New Version](change2b.JPG)
 
 **3. Building a broader and more useful base of resources**
 Finally, I want this project to serve as a useful set of resources for educators, and community members. To do this I know I will need to expand the set of resources, I present as part of my call to action. This was another common thread that emerged from my user research, as the educators I talked to desired some additional resources particularly around students with disabilities and credit recovery opportunities. Over the course of this week, I plan to expand this section of my project to include a comprehensive set of resources that teachers can actually use. 
