@@ -182,7 +182,9 @@ Finally, I want this project to serve as a useful set of resources for educators
 After some introductory research here are a few concrete resources I plan to include in my final product. 
 
 https://www.pbis.org/resource/supporting-students-with-disabilities-at-school-and-home-a-guide-for-teachers-to-support-families-and-students
+
 https://www.detroitk12.org/Page/12257
+
 https://www.detroitk12.org/site/default.aspx?PageType=3&DomainID=73&ModuleInstanceID=4513&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=48695&PageID=134
 
 
