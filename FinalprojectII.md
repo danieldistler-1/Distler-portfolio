@@ -159,6 +159,7 @@ In the original version, I used a color distinction to distinguish between Publi
 In my new version, I included only one color for model schools, clearer axis labels and a subtitle that more directly told the story of the data. 
 I will repeat this same process for all of my visualizations in order to ensure that they are accessible and clear to my reader. 
 
+![New Version](Change1b.jpg)
 
 **2. Adding baselines for context and comparison** 
 Another throughline from my user research, was a desire for more context in some of the metrics I presented. While I included baseline metrics, state and district averages, in some of my graphs, my users expressed a desire to see these points of comparison in more contexts. I believe that including a baseline will help strengthen my case and make my graphs easier to understand. 
