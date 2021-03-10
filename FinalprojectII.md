@@ -154,7 +154,7 @@ One key takeaway from my user research was that even for an educated audience of
 
 In the original version, I used a color distinction to distinguish between Public Schools that were models and application schools that were model schools. After reflection and user research, I realized this wasn’t really relevant to the point I was trying to make and made the graph harder to understand. I also failed to edit the axis labels to be more interpretable, and left them as the column headers in my data set. This made the graph harder to interpret. 
 
-![Original Version](Change%1.JPG)
+![Original Version](Change%201.JPG)
 
 In my new version, I included only one color for model schools, clearer axis labels and a subtitle that more directly told the story of the data. 
 I will repeat this same process for all of my visualizations in order to ensure that they are accessible and clear to my reader. 
