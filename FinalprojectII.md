@@ -188,6 +188,8 @@ https://www.pbis.org/resource/supporting-students-with-disabilities-at-school-an
 
 [Credit Recovery Programs](https://www.detroitk12.org/site/default.aspx?PageType=3&DomainID=73&ModuleInstanceID=4513&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=48695&PageID=134)
 
+**4 Citing References:** 
+In my draft visualizations I left space for citing references, both for unsplash images and data sets. I will of course fully cite these dillegently by the time I tunr in my final project. 
 
 
 
