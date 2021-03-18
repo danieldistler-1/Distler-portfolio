@@ -79,7 +79,7 @@ To lighter white that allowed the text to be read easily. Finally, I highlighted
 
 ![Original Version](Redesign4b.JPG)
 
-Properly Crediting References:
+## Properly Crediting References:
 Finally I needed to ensure that the information I used throughout my project was properly referenced. I created a comprehensive set of MLA citations.. Additionally, for certain images, I provided citations in line on shorthand. However, in shorthand’s scrollmation setting I could not add captions to the images. Instead citations for each of these unsplash images were placed at the end of my final project. These citations are included at the end of my final project, below on this webpage, and as a word document on my [github portfolio](/Final_Works_Cited.docx). 
 
 ## Final Reflections 
@@ -101,16 +101,7 @@ After completing this project a few key takeaways stand out. This project helped
 
 **[Click Here to access]**(https://github.com/danieldistler-1/Distler-portfolio)
 
-
-
-
-
-
-
-
-
-
-
+[Complete Works Cited](/Final_Works_Cited.docx)
 
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
 
@@ -118,94 +109,5 @@ After completing this project a few key takeaways stand out. This project helped
 
 [Link to Part II](/FinalprojectII.md)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Works Cited:
-
-“10 Reasons to Support Inclusive School Communities for ALL Students.” Institute on Community Integration Publications, University of Minnesota, publications.ici.umn.edu/ties/inclusive-school-communities-10-reasons/introduction.
-Aleksic, Ivan. “Brown Wooden Table and Chairs.” Unsplash, unsplash.com/photos/PDRFeeDniCk.
-Amistad, Andrew. “Man Walking Hallway During Daytime.” Unsplash, unsplash.com/photos/RT0xyvwNB08.
-“Attendance Still Matters: Strategies to Support and Track It in the Age of Virtual and Blended Learning.” North Carolina Early Childhood Foundation, 21 Aug. 2020, buildthefoundation.org/2020/08/tracking-attendance-and-participation-will-be-critical-for-both-virtual-and-in-person-learning/.
-Author, EL Education - Guest. “Detroit Teachers Serve As Models For Resilience And Results.” Education Elements, 11 Dec. 2019, www.edelements.com/blog/detroit-teachers-serve-as-models-for-resilience-and-results.
-BanterSnaps. “Man With Backpack Beside Books.” Unsplash, unsplash.com/photos/9o8YdYGTT64.
-Blueprint 2020: Our Strategic Plan for Rebuilding Detroit's Public Schools. Detroit Public Schools Community District, 2020, www.detroitk12.org/cms/lib/MI50000060/Centricity/Domain/4036/Blueprint_2020_Strategies_Only.pdf.
-The Case for Growth. Northwest Evaluation Association, 2014, www.nwea.org/content/uploads/2014/07/MAP-Catalyst-Series-Measuring-Growth-E-Book-Jan14.pdf.
-CDC. “Boy in Green Sweater Writing on White Paper.” Unsplash, unsplash.com/photos/GDokEYnOfnE.
-Chambers, Dana, et al. “Promising Practices Brief: Improving Student Engagement and Attendance During COVID-19 School Closures.” Insight Policy Research, U.S. Department of Education, insightpolicyresearch.com/wp-content/uploads/2020/08/NSAES_COVID19_Whitepaper_Final_508.pdf.
-“Credit Recovery Information.” Detroit Public Schools Community District, Detroit School of Arts, www.detroitk12.org/site/default.aspx?PageType=3&DomainID=73&ModuleInstanceID=4513&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=48695&PageID=134.
-Dorn, Emma, et al. “COVID-19 and Student Learning in the United States: The Hurt Could Last a Lifetime.” McKinsey & Company, McKinsey & Company, 14 Dec. 2020, www.mckinsey.com/industries/public-and-social-sector/our-insights/covid-19-and-student-learning-in-the-united-states-the-hurt-could-last-a-lifetime.
-DPSCD Receives More than $5 Million through Grants and Resources to Expand Mental Health Services for Students. Detroit Public Schools Community District, 2019, www.detroitk12.org/site/default.aspx?PageType=3&DomainID=4&ModuleInstanceID=4585&ViewID=6446EE88-D30C-497E-9316-3F8874B3E108&RenderLoc=0&FlexDataID=28851&PageID=1.
-“DPSCD Style Guide.” Detroit Public Schools Community District, June 2019, www.detroitk12.org/site/handlers/filedownload.ashx?moduleinstanceid=13754&dataid=18449&FileName=DPSCD%20Style%20Guide%20June%202019%20V2.4.pdf.
-Draper, Jameson. “Green Grass Field Near City Buildings During Daytime.” Unsplash, unsplash.com/photos/LCDBv33ij7c.
-Element 5 Digital. “Red Apple Fruit on Four Pyle Books.” Unsplash, unsplash.com/photos/OyCl7Y4y0Bk.
-Element 5 Digital. “School Bus Near Green Trees Under Cloudy Sky During Daytime.” Unsplash, unsplash.com/photos/7K_agbqPqYo.
-“Every School Day Counts: The Forum Guide to Collecting and Using Attendance Data.” National Center for Education Statistics (NCES) Home Page, U.S. Department of Education, nces.ed.gov/pubs2009/attendancedata/chapter1a.asp#:~:text=Students%20who%20attend%20school%20regularly,in%20a%20child's%20school%20career.&text=Research%20shows%20that%20attendance%20is%20an%20important%20factor%20in%20student%20achievement.
-Exceptional Student Education / Exceptional Student Education, Detroit Public Schools Community District, www.detroitk12.org/Page/7160.
-Ferguson, Hb, et al. “The Impact of Poverty on Educational Outcomes for Children.” Paediatrics & Child Health, Pulsus Group Inc, Oct. 2007, www.ncbi.nlm.nih.gov/pmc/articles/PMC2528798/.
-Fileccia, Marco. “An Empty Classroom with Corona Mask.” Unsplash, unsplash.com/photos/HE7_hMkqn9A.
-Grover, John, and Yvette van der Velde. “A School District in Crisis.” Landgrid, 2015, landgrid.com/reports/schools#credits.
-Higgins, Lori. “In the Fight to Improve Attendance, the Detroit District Will Try Vans.” Chalkbeat Detroit, Chalkbeat Detroit, 22 May 2019, detroit.chalkbeat.org/2019/5/22/21108188/in-the-fight-to-improve-attendance-the-detroit-district-will-try-using-vans-to-pick-up-absent-studen.
-King, Kahari. “Silhouette of City Buildings and Boat above Water at Golden Hour.” Unsplash, unsplash.com/photos/gmaa1ik8LGY.
-Law, Lucas. “Macbook Pro on Blue Table.” Unsplash, unsplash.com/photos/ecELcxmJTk4.
-Lee, MChe. “White Table With Black Chairs.” Unsplash, unsplash.com/photos/PC91Jm1DlWA.
-Levin, Koby. “Detroit District Test Scores Gain on Michigan's, but There's a Long Way to Go.” Chalkbeat Detroit, Chalkbeat Detroit, 29 Aug. 2019, detroit.chalkbeat.org/2019/8/29/21108743/detroit-district-test-scores-gain-on-michigan-s-but-there-s-a-long-way-to-go.
-McCutcheon, Sharon. “Assorted Books on Wooden Table.” Unsplash, unsplash.com/photos/eMP4sYPJ9x0.
-Mirel, Jeffrey. The Rise and Fall of an Urban School System, 1999, lsa.umich.edu/sid/detroiters-speak/winter-2017--toward-education-justice/_jcr_content/par/download/file.res/Mirel%20Preface%20(1).pdf.
-Moehlman. “Public Education in Detroit.” HathiTrust, University of Michigan, 1925, babel.hathitrust.org/cgi/pt?id=mdp.39015002761388&view=1up&seq=5.
-NeonBrand. “Man and Woman Sitting On Chairs.” Unsplash, unsplash.com/photos/zFSo6bnZJTw.
-“Resource: Supporting Students with Disabilities at School and Home: A Guide for Teachers to Support Families and Students.” PBIS.org, www.pbis.org/resource/supporting-students-with-disabilities-at-school-and-home-a-guide-for-teachers-to-support-families-and-students.
-Schnobrich, John. “Person Using Laptop.” Unsplash, unsplash.com/photos/FlPc9_VocJ4.
-St. Amour, Madeline. “Inequity in College Access Continues for Black, Latinx Students, Report Finds.” Inside HigherEd, www.insidehighered.com/news/2020/07/21/inequity-college-access-continues-black-latinx-students-report-finds.
-Strategy / Open Data Files, Detroit Public Schools Community District, 2020, www.detroitk12.org/Page/9634.
-Superintendent / Office of Superintendent, Detroit Public Schools Community District, www.detroitk12.org/superintendent.
-Wong, Alia, director. Inside Detroit's Failing Public Schools. The Atlantic, Atlantic Media Company, 2016, www.theatlantic.com/video/index/483210/inside-detroits-failing-public-schools/. 
 
 
