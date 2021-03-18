@@ -1,5 +1,9 @@
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
 
+[Link to Part I](/final_project_DanielDistler.md)
+
+[Link to Part III](/FinalprojectIII.md)
+
 # Final Project Part II 
 
 
@@ -195,6 +199,9 @@ In my draft visualizations I left space for citing references, both for unsplash
 
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
 
+[Link to Part I](/final_project_DanielDistler.md)
+
+[Link to Part III](/FinalprojectIII.md)
 
 
 
