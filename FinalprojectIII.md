@@ -92,10 +92,14 @@ After completing this project a few key takeaways stand out. This project helped
 
 **Using Technology to Provide Engagement:** This project, and course more generally, helped underscore the ways in which technology can promote user engagement. I tried to integrate this by making interactive visualizations. This allows the user to more fully engage with the topic.  
 
-The Project Itself: You can access the full project at this publicly accessible shorthand link. [Click here to access](https://carnegiemellon.shorthandstories.com/the-rise-of-detroit-s-public-schools/index.html)
+# The Project Itself: 
 
-Git Hub Portfolio: The Entire Git Hub Portfolio for this project, and the rest of this portfolio, can be accessed [here](https://github.com/danieldistler-1/Distler-portfolio)
+**You can access the full project at this publicly accessible shorthand link.** 
+## [Click here to access](https://carnegiemellon.shorthandstories.com/the-rise-of-detroit-s-public-schools/index.html)
 
+**Git Hub Portfolio:** The Entire Git Hub Portfolio for this project, and the rest of this portfolio. 
+
+## [Click Here to access](https://github.com/danieldistler-1/Distler-portfolio)
 
 
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
