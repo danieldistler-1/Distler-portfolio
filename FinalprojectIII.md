@@ -1,6 +1,7 @@
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
 
 [Link to Part I](/final_project_DanielDistler.md)
+
 [Link to Part II](/FinalprojectII.md)
 
 # Part III 
@@ -100,6 +101,7 @@ Git Hub Portfolio: The Entire Git Hub Portfolio for this project, and the rest o
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
 
 [Link to Part I](/final_project_DanielDistler.md)
+
 [Link to Part II](/FinalprojectII.md)
 
 
