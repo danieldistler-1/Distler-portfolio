@@ -95,11 +95,21 @@ After completing this project a few key takeaways stand out. This project helped
 # The Project Itself: 
 
 **You can access the full project at this publicly accessible shorthand link.** 
-## [Click here to access](https://carnegiemellon.shorthandstories.com/the-rise-of-detroit-s-public-schools/index.html)
+**[Click here to access]**(https://carnegiemellon.shorthandstories.com/the-rise-of-detroit-s-public-schools/index.html)
 
 **Git Hub Portfolio:** The Entire Git Hub Portfolio for this project, and the rest of this portfolio. 
 
-## [Click Here to access](https://github.com/danieldistler-1/Distler-portfolio)
+**[Click Here to access]**(https://github.com/danieldistler-1/Distler-portfolio)
+
+
+
+
+
+
+
+
+
+
 
 
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
@@ -107,6 +117,21 @@ After completing this project a few key takeaways stand out. This project helped
 [Link to Part I](/final_project_DanielDistler.md)
 
 [Link to Part II](/FinalprojectII.md)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
