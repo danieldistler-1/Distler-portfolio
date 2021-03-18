@@ -16,7 +16,7 @@ Check out each of my projects by clocking on the links below.
 
 # [CMU Covid Dashboard Redesign](/CMU_Covid_Data.md)
 
-# [Final Project Proposal](/final_project_DanielDistler.md)
+# [Final Project Part I](/final_project_DanielDistler.md)
 
 # [Final Project Part II](/FinalprojectII.md)
 
