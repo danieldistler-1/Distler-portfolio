@@ -1,5 +1,9 @@
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
 
+[Link to Part II](/FinalprojectII.md)
+
+[Link to Part III](/FinalprojectIII.md)
+
 # Final Project Proposal
 
 ## Summary 
@@ -50,5 +54,9 @@ The data used from this project is aggregated from the [DPSCD open data files we
 I plan to build a story using **Shorthand**. I think this medium will lend itself well to this project. Using this format, I plan to **mix written research with informative visualizations**. I know there will be a fair amount data cleaning and preprocessing that will be neeeded to get the data into the correct form for each visualization. In aggregating the .csv files linked above I have already begun this process. Before completing each visualization I know I will need to do some combination of grouping, filtering and sorting the data. I plan to do as much of this as possible in excel. Once this is done, I plan to generate these visualizations using both Tableau and Flourish. Flourish will be used to create the Bar Chart Race, and Sample Survey visualizations, because these were drawn with these flourish tools in mind, and I will consider using Tableau (or perhaps Flourish as well) to create the scatter plots and Treemaps sketched above. 
 
 In addition, I will draw on my experience working in DPSCD and additional research to provide ample historical context. Shorthand's story format will allow me to mix this written information with my visualization. For my final presentation, I will present my shorthand story, in a similiar way to Riley's demonstration in class, and explain each visualization will pointing out the highlights of my written text. 
+
+[Link to Part II](/FinalprojectII.md)
+
+[Link to Part III](/FinalprojectIII.md)
 
 [Return to home](https://danieldistler-1.github.io/Distler-portfolio/)
